@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/free-stand.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2018-02-27T10:22:44-08:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/203586535430</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/713072-gr-vanity_set"/>
+    <title>713072-GR-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v4_1.jpg?v=1520617215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 72</s:tag>
+    <s:tag>vanity/gray</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/203586535430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>713072-GR-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/203579883526</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/713048-gr-vanity_set"/>
+    <title>713048-GR-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v2_1.jpg?v=1520617122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:tag>vanity/gray</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/203579883526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1199.00</s:price>
+      <s:sku>713048-GR-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/203574018054</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/713036-gr-vanity_set"/>
+    <title>713036-GR-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v1_1.jpg?v=1520617091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 36</s:tag>
+    <s:tag>vanity/gray</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/203574018054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>713036-GR-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200407089158</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723060-wh-vanity_set"/>
+    <title>723072-WH-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v14_1.jpg?v=1520470512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 72</s:tag>
+    <s:tag>Vanity/White</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200407089158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>723072-WH-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200405680134</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723048-wh-vanity_set"/>
+    <title>723060-WH-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v11_1.jpg?v=1520470459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 60</s:tag>
+    <s:tag>Vanity/White</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200405680134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1529.00</s:price>
+      <s:sku>723060-WH-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200404008966</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723048-gr-vanity_set"/>
+    <title>723048-WH-Vanity_Set-Sale</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v8_1.jpg?v=1520470399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product dimensions( in inch)</p>
+<p>Main cabinet: 46.9L 21.4W 35.4H <br>Ceramic basin: 20.5L 15.4W 7.9H <br>Countertop: 48.0L 22.0W 0.7H <br>Mirror: 36.0L 30.0W 0.9H </p>
+<p>1.Thailand Oak Solid Wood Construction and Solid Wood Veneer Laminated Panels</p>
+<p>2. Carrara White Marble Countertop</p>
+<p>3.Rectangular Under-Mount Sink</p>
+<p>4.Nine Soft-Closing Drawers and One Soft-Closing Double Door</p>
+<p>5.Satin Nickel Finish Hardware</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:tag>Vanity/White</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200404008966</id>
+      <title>Default Title</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>723048-WH-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200401944582</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723060-gr-vanity_set"/>
+    <title>723048-GR-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v7_1_5eccec9e-0f68-439d-8506-1b0861f89194.jpg?v=1520470326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:tag>vanity/gray</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200401944582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1219.00</s:price>
+      <s:sku>723048-GR-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200399323142</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723072-gr-vanity_set"/>
+    <title>723060-GR-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v10_1.jpg?v=1520470209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 60</s:tag>
+    <s:tag>vanity/gray</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200399323142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1529.00</s:price>
+      <s:sku>723060-GR-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200396177414</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723072-es-vanity_set"/>
+    <title>723072-GR-Vanity_Set-sale</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v13_1.jpg?v=1520470141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Dimension( in inch): </p>
+<p>Main cabinet  70.8L 21.4W 35.4H <br>Ceramic basin  20.5L 15.4W 7.9 H<br>Countertop  72.0L 22.0W 0.7H <br><br></p>
+<p>1.Thailand Oak Solid Wood Construction and SolidWood Veneer Laminated Panels</p>
+<p>2.Carrara White Marble Countertop</p>
+<p>3.Rectangular Under-Mount Sink</p>
+<p>4.Six Soft-Closing Drawers and two Soft-ClosingDouble Door</p>
+<p>5.Satin Nickel Finish Hardware</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 72</s:tag>
+    <s:tag>vanity/gray</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200396177414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1099.00</s:price>
+      <s:sku>723072-GR-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200394670086</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723060-es-vanity_set"/>
+    <title>723072-ES-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v12_1.jpg?v=1520470020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 72</s:tag>
+    <s:tag>Vanity/Espresso</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200394670086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>723072-ES-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200391327750</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723048-es-vanity_set"/>
+    <title>723060-ES-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v9_1.jpg?v=1520469904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 60</s:tag>
+    <s:tag>Vanity/Espresso</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200391327750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1529.00</s:price>
+      <s:sku>723060-ES-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/200385822726</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-723036-wh-vanity_set"/>
+    <title>723048-ES-Vanity_Set</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v6_1.jpg?v=1520469782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:tag>Vanity/Espresso</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/200385822726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1219.00</s:price>
+      <s:sku>723048-ES-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/183740006406</id>
+    <published>2018-02-27T10:22:44-08:00</published>
+    <updated>2018-02-27T10:22:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/723036-wh-vanity_set"/>
+    <title>723036-WH-Vanity_Set-sale</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/v5_1.jpg?v=1519756839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Main Cabinet: 35''Wx21''Dx35.5''H</p>
+<p>Ceramic Basin: 20.5''Wx15.5''Dx7.9''H</p>
+<p>Countertop: 36''Wx22''Dx0.75''H</p>
+<p>1.Thailand Oak Solid Wood Construction and Solid Wood Veneer Laminated Panels</p>
+<p>2.White Color</p>
+<p>3.Carrara White Marble Countertop</p>
+<p>4.Rectangular Under-Mount Sink</p>
+<p>5.Five Soft-Closing Drawers and One Soft-Closing Double Door</p>
+<p>6.Satin Nickel Finish Hardware</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Free Standing</s:tag>
+    <s:tag>VANITY 36</s:tag>
+    <s:tag>Vanity/White</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/183740006406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>723036-WH-Vanity_Set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

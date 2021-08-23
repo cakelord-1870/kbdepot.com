@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/kithchen-faucet.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2019-08-02T17:08:51-07:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/181929672710</id>
+    <published>2019-08-02T17:08:51-07:00</published>
+    <updated>2019-08-02T17:08:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kk8207bn"/>
+    <title>KK8207BN</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/1.jpg?v=1564791534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faucet</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/181929672710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/227733864454</id>
+    <published>2018-03-21T10:49:14-07:00</published>
+    <updated>2018-03-21T10:49:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kc2070028sp"/>
+    <title>KC2070028sp</title>
+    <s:type>Kitchen Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/N2070028SP-BN_a690d37d-8012-49df-b92a-d77216b66425.jpg?v=1522692310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Kitchen Faucet<br>
+        <strong>Price: </strong>
+            216.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faucet</s:tag>
+    <s:tag>Kitchen Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227733864454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku>KC2070028sp-Kitchen_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/227733798918</id>
+    <published>2018-03-21T10:49:14-07:00</published>
+    <updated>2018-03-21T10:49:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kc88502b5"/>
+    <title>KC88502b5</title>
+    <s:type>Kitchen Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/N88502B5-BN_397c1754-ca3e-4bf9-bace-fc92ba4dffef.jpg?v=1522692071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Kitchen Faucet<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faucet</s:tag>
+    <s:tag>Kitchen Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227733798918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>KC88502b5-Kitchen_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/227733733382</id>
+    <published>2018-03-21T10:49:14-07:00</published>
+    <updated>2018-03-21T10:49:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kc207950sp"/>
+    <title>KC207950sp</title>
+    <s:type>Kitchen Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/N2070950SP_3aacc31d-926c-45a9-8791-01992b27b95d.jpg?v=1522692118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Kitchen Faucet<br>
+        <strong>Price: </strong>
+            126.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faucet</s:tag>
+    <s:tag>Kitchen Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227733733382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku>KC207950sp-Kitchen_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/227733700614</id>
+    <published>2018-03-21T10:49:14-07:00</published>
+    <updated>2018-03-21T10:49:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kc96466"/>
+    <title>13029</title>
+    <s:type>Kitchen Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/96466_BN1_00c2fbaf-7972-4341-ba21-b26c50a75876.jpg?v=1522692371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Kitchen Faucet<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faucet</s:tag>
+    <s:tag>Kitchen Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227733700614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>KC96466-Kitchen_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

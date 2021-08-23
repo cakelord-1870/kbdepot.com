@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/vanity-1.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2018-04-11T10:34:17-07:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/181921480710</id>
+    <published>2018-04-11T10:34:17-07:00</published>
+    <updated>2018-04-11T10:34:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va4821-6-aw"/>
+    <title>VA4821-6 aw</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB4821D-6_7785e12d-a8dc-43c4-b70b-f3b58a07df07.jpg?v=1524978074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            715.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Antique White Vanity : 1 Box 48'W x 34-1/2''H x 21''D With 6 Drawers (3L, 3R)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Antique White</s:tag>
+    <s:tag>Bathroom Cabinet/Cabinet US/Antique White/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>QR_AW</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/181921480710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">715.91</s:price>
+      <s:sku>VA4821_6-AW-USC_Set-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/177121984518</id>
+    <published>2018-04-11T09:56:14-07:00</published>
+    <updated>2018-04-11T09:56:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va4821-6-es"/>
+    <title>VA4821-6 es</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB4821D-6_ee8bae26-23ef-4b9c-bce9-3ed715b6aa6d.jpg?v=1524979372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Espresso Shaker Vanity : 1 Box 48'W x 34-1/2''H x 21''D With 6 Drawers (3L, 3R)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Espresso Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Espresso Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/177121984518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">650.00</s:price>
+      <s:sku>VA4821_6-CE-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/219754987526</id>
+    <published>2018-03-17T22:17:51-07:00</published>
+    <updated>2018-03-17T22:17:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va4821-6-cg"/>
+    <title>VA4821-6 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB4821D-6_5376a5ff-4c9a-4d23-a1e3-24144c503cac.jpg?v=1524979710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glazed Vanity : 1 Box 48'W x 34-1/2''H x 21''D With 6 Drawers (3L, 3R)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/219754987526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">650.00</s:price>
+      <s:sku>VA4821_6-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/219754954758</id>
+    <published>2018-03-17T22:17:50-07:00</published>
+    <updated>2018-03-17T22:17:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va4821-4-cg"/>
+    <title>VA4821-4 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB4821D-4_0c9dd37a-64a8-44d4-84bf-a85b166348ac.jpg?v=1524979710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            550.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 48'W x 34-1/2''H x 21''D With 4 Drawers (2L,2R)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 48</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/219754954758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">550.83</s:price>
+      <s:sku>VA4821_4-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906862598</id>
+    <published>2018-03-06T14:06:31-08:00</published>
+    <updated>2018-03-06T14:06:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vss6021_1sink_cg"/>
+    <title>VSS6021_1Sink cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VSSB6021-single-sink_f4093cd2-b9eb-40a3-b7aa-c0566fcd98a4.jpg?v=1524979716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            591.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 60''W x 34-1/2''H x 21''D With 2 Doors - 6 Drawers (3L,3R)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 60</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906862598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">591.11</s:price>
+      <s:sku>VSS6021_1Sink-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906797062</id>
+    <published>2018-03-06T14:06:30-08:00</published>
+    <updated>2018-03-06T14:06:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vds6021_2sinks_cg"/>
+    <title>VDS6021_2Sinks cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDSB6021-double-sinks_3f5c13e8-d27b-4877-97f9-17481fdb068f.jpg?v=1524979715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            605.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 60''W x 34-1/2''H x 21''D With 3 Drawers Center - 4 Doors On Side</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 60</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906797062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">605.62</s:price>
+      <s:sku>VDS6021_2Sinks-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906272774</id>
+    <published>2018-03-06T14:06:29-08:00</published>
+    <updated>2018-03-06T14:06:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb2121_cg"/>
+    <title>VDB2121 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_29375288-ab1f-4f56-ba88-edc4648f5381.jpg?v=1524979714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            344.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity Drawer : 1 Box 21''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906272774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">344.05</s:price>
+      <s:sku>VDB2121-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906240006</id>
+    <published>2018-03-06T14:06:28-08:00</published>
+    <updated>2018-03-06T14:06:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb1821_cg"/>
+    <title>VDB1821 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_f720174f-0c11-4046-b991-a4ec9d1475d7.jpg?v=1524979714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            307.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity Drawer : 1 Box 18''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906240006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">307.06</s:price>
+      <s:sku>VDB1821-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906207238</id>
+    <published>2018-03-06T14:06:28-08:00</published>
+    <updated>2018-03-06T14:06:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb1521_cg"/>
+    <title>VDB1521 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_57fafaaa-41eb-4474-bd22-e2f0833eea0a.jpg?v=1524979712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            294.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity Drawer : 1 Box 15''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906207238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">294.96</s:price>
+      <s:sku>VDB1521-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906174470</id>
+    <published>2018-03-06T14:06:27-08:00</published>
+    <updated>2018-03-06T14:06:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb1221_cg"/>
+    <title>VDB1221 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_c225bab6-f493-46be-910d-57ad7c96798d.jpg?v=1524979711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            268.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity Drawer : 1 Box 12''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906174470</id>
+      <title>Default Title</title>
+      <s:price currency="USD">268.27</s:price>
+      <s:sku>VDB1221-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906665990</id>
+    <published>2018-03-06T14:06:26-08:00</published>
+    <updated>2018-03-06T14:06:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va4221d-r_cg"/>
+    <title>VA4221D/R cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB4221D-_3drawers-R_fc8b0b8a-c02d-4def-b0a3-8d22d1a1a0da.jpg?v=1524979709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            374.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 42''W x 34-1/2''H x 21''D With 2 Doors - 2 Drawers On Right</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 42</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906665990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">374.64</s:price>
+      <s:sku>VA4221D/R-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906633222</id>
+    <published>2018-03-06T14:06:25-08:00</published>
+    <updated>2018-03-06T14:06:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va4221d-l_cg"/>
+    <title>VA4221D/L cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB4221D-_3drawers-L_a529db31-2829-49fb-a8d3-83e0a9fe6941.jpg?v=1524979708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            374.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 42''W x 34-1/2''H x 21''D With 2 Doors - 2 Drawers On Left</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 42</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906633222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">374.64</s:price>
+      <s:sku>VA4221D/L-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906567686</id>
+    <published>2018-03-06T14:06:24-08:00</published>
+    <updated>2018-03-06T14:06:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3621d-r_cg"/>
+    <title>VA3621D/R cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3621D_2drawers-R_8573c3f0-e137-4e24-b5f3-a86c5e9ec620.jpg?v=1524979708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            340.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 36''W x 34-1/2''H x 21''D With 2 Doors - 2 Drawers On Right</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 36</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906567686</id>
+      <title>Default Title</title>
+      <s:price currency="USD">340.07</s:price>
+      <s:sku>VA3621D/R-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906534918</id>
+    <published>2018-03-06T14:06:24-08:00</published>
+    <updated>2018-03-06T14:06:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3621d-l_cg"/>
+    <title>VA3621D/L cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3621D_2drawers-L_b68486d8-ec62-4259-9007-ef9b120ee338.jpg?v=1524979707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            340.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 36''W x 34-1/2''H x 21''D With 2 Doors - 2 Drawers On Left</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 36</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906534918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">340.07</s:price>
+      <s:sku>VA3621D/L-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906502150</id>
+    <published>2018-03-06T14:06:21-08:00</published>
+    <updated>2018-03-06T14:06:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3021d-r_cg"/>
+    <title>VA3021D/R cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021D_2drawers-R_c3206d43-c36a-416b-bcb6-9aa9d0020af5.jpg?v=1524979706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            309.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 30''W x 34-1/2''H x 21''D With 1 Door - 2 Drawers On Right</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 30</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906502150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">309.20</s:price>
+      <s:sku>VA3021D/R-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906469382</id>
+    <published>2018-03-06T14:06:20-08:00</published>
+    <updated>2018-03-06T14:06:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3021d-l_cg"/>
+    <title>VA3021D/L cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021D_2drawers-L_e664348a-cc9e-45b4-9d23-c3cad5661a0a.jpg?v=1524979705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            309.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 30''W x 34-1/2''H x 21''D With 1 Door - 2 Drawers On Left</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 30</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906469382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">309.20</s:price>
+      <s:sku>VA3021D/L-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906403846</id>
+    <published>2018-03-06T14:06:20-08:00</published>
+    <updated>2018-03-06T14:06:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3621_cg"/>
+    <title>VA3621 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021_f29befd4-2127-4b33-a7be-3b3a3dc50b0f.jpg?v=1526323561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            309.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 36''W x 34-1/2''H x 21''D With 2Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 36</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906403846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">309.20</s:price>
+      <s:sku>VA3621-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906338310</id>
+    <published>2018-03-06T14:06:19-08:00</published>
+    <updated>2018-03-06T14:06:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3021_cg"/>
+    <title>VA3021 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021_68f7e98b-5fa8-4c15-bd39-0f85bacc9b51.jpg?v=1524979704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            205.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 30''W x 34-1/2''H x 21''D With 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 30</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906338310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">205.20</s:price>
+      <s:sku>VA3021-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/176906305542</id>
+    <published>2018-03-06T14:06:18-08:00</published>
+    <updated>2018-03-06T14:06:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va2421_cg"/>
+    <title>VA2421 cg</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021_1a6df2e7-5bd7-45a7-ae84-969103e875e0.jpg?v=1524979703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            189.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Glaze Vanity : 1 Box 24''W x 34-1/2''H x 21''D With 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Cherry Glaze/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Cherry Glaze</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 24</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/176906305542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.94</s:price>
+      <s:sku>VA2421-Cherry_Glaze-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/191097077766</id>
+    <published>2018-03-02T10:34:59-08:00</published>
+    <updated>2018-03-02T10:34:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb1221_gs"/>
+    <title>VDB1221 gs</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_4c90214c-e3ad-4dd6-9bf9-676d9da1b0c5.jpg?v=1524976265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            268.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Shaker Vanity Drawer : 1 Box 12''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Gray Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Gray Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/191097077766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">268.27</s:price>
+      <s:sku>VDB1221-Gray_Shaker-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/191097012230</id>
+    <published>2018-03-02T10:34:59-08:00</published>
+    <updated>2018-03-02T10:34:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb1521_gs"/>
+    <title>VDB1521 gs</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_9a37c234-414b-4401-8ec8-bff5051e232c.jpg?v=1524976266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            294.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Shaker Vanity Drawer : 1 Box 15''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Gray Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Gray Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/191097012230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">294.96</s:price>
+      <s:sku>VDB1521-Gray_Shaker-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/191096979462</id>
+    <published>2018-03-02T10:34:57-08:00</published>
+    <updated>2018-03-02T10:34:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb1821_gs"/>
+    <title>VDB1821 gs</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_4819be45-dee7-4ddc-95b8-e5fd6e4b30a2.jpg?v=1524976267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            307.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Shaker Vanity Drawer : 1 Box 18''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Gray Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Gray Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/191096979462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">307.06</s:price>
+      <s:sku>VDB1821-Gray_Shaker-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/191096913926</id>
+    <published>2018-03-02T10:34:57-08:00</published>
+    <updated>2018-03-02T10:34:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/vdb2121_gs"/>
+    <title>VDB2121 gs</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VDB1821-3_badde512-e3d3-45ca-abcc-bbe7726b0317.jpg?v=1524976268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            344.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Shaker Vanity Drawer : 1 Box 21''W x 34-1/2''H x 21''D With 3 Drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Gray Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Gray Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/191096913926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">344.05</s:price>
+      <s:sku>VDB2121-Gray_Shaker-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/191096881158</id>
+    <published>2018-03-02T10:34:55-08:00</published>
+    <updated>2018-03-02T10:34:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va2421_gs"/>
+    <title>VA2421 gs</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021_6d2dcb11-e391-41e5-9600-d86e22154ef0.jpg?v=1524976253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            189.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Shaker Vanity : 1 Box 24''W x 34-1/2''H x 21''D With 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Gray Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Gray Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 24</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/191096881158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.94</s:price>
+      <s:sku>VA2421-Gray_Shaker-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/191096782854</id>
+    <published>2018-03-02T10:34:54-08:00</published>
+    <updated>2018-03-02T10:34:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/va3021_gs"/>
+    <title>VA3021 gs</title>
+    <s:type>Kitchen Cabinet</s:type>
+    <s:vendor>KB Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/VB3021_e87a200c-6d13-42ef-8422-1a217df25d61.jpg?v=1524976254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB Depot<br>
+        <strong>Type: </strong>Kitchen Cabinet<br>
+        <strong>Price: </strong>
+            205.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Shaker Vanity : 1 Box 30''W x 34-1/2''H x 21''D With 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Cabinet/Cabinet US/Gray Shaker/Vinity Cabinet/Vanity</s:tag>
+    <s:tag>Gray Shaker</s:tag>
+    <s:tag>VANITY</s:tag>
+    <s:tag>VANITY 30</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/191096782854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">205.20</s:price>
+      <s:sku>VA3021-Gray_Shaker-USC_Pack-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

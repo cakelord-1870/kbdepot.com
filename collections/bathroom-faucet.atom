@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/bathroom-faucet.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2018-03-21T10:49:15-07:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/227734126598</id>
+    <published>2018-03-21T10:49:15-07:00</published>
+    <updated>2018-03-21T10:49:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/br2010002sp"/>
+    <title>BR2010002SP</title>
+    <s:type>Bathroom Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/N2010002SP_30dfd3c8-be04-49bd-8de1-eb77bf916c69.jpg?v=1522692469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Bathroom Faucet<br>
+        <strong>Price: </strong>
+            136.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227734126598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">136.00</s:price>
+      <s:sku>BR2010002sp-Bathroom_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/227734061062</id>
+    <published>2018-03-21T10:49:15-07:00</published>
+    <updated>2018-03-21T10:49:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/br2010001sp"/>
+    <title>BR2010001SP</title>
+    <s:type>Bathroom Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/N2010001SP_307c5df4-909d-47bd-aa99-99077d530066.jpg?v=1522692466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Bathroom Faucet<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227734061062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>BR2010001sp-Bathroom_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/227733897222</id>
+    <published>2018-03-21T10:49:15-07:00</published>
+    <updated>2018-03-21T10:49:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/br10167n2"/>
+    <title>BR10167N2</title>
+    <s:type>Bathroom Faucet</s:type>
+    <s:vendor>SFC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/N10167N2-10172-BN.jpg?v=1521671354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SFC<br>
+        <strong>Type: </strong>Bathroom Faucet<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>Faucet</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/227733897222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>BR10167n2-Bathroom_Faucet-SFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

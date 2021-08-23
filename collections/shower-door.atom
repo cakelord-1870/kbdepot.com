@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/shower-door.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2018-02-19T13:48:28-08:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/181927870470</id>
+    <published>2018-02-19T13:48:28-08:00</published>
+    <updated>2018-02-19T13:48:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kupc05"/>
+    <title>KUPC05</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/UPC05.jpg?v=1519664404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            559.00 - 619.00
+            <a href="https://kbdepot.com/products/kupc05">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frameless Single Sliding Shower Door available size 48" *76", 60" *60", 60" *76"</p>
+<p>premium 3/8"(10mm) glass, rollers 70, 8" Stainless towel bar, width adjustment 2-6"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shower Door</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/181927870470</id>
+      <title>48&quot; X 76&quot;</title>
+      <s:price currency="USD">559.00</s:price>
+      <s:sku>KUPC05_CV_4876-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kbdepot.com/products/181927870470</id>
+      <title>60&quot; X 60&quot;</title>
+      <s:price currency="USD">589.00</s:price>
+      <s:sku>KUPC05_CV_6060-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kbdepot.com/products/181927870470</id>
+      <title>60&quot; X 76&quot;</title>
+      <s:price currency="USD">619.00</s:price>
+      <s:sku>KUPC05_CV_6076-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/181926264838</id>
+    <published>2018-02-19T13:48:28-08:00</published>
+    <updated>2018-02-19T13:48:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/copy-of-kupc01"/>
+    <title>KUPC04</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/UPC04.jpg?v=1519664229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            639.00 - 699.00
+            <a href="https://kbdepot.com/products/copy-of-kupc01">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="684">
+<tbody>
+<tr>
+<td width="684">Frameless Single Sliding Shower Door  available size 48" *76", 60<span>" *60"</span>,             60<span>" *76"</span>,premium 3/8"(10mm) glass, rollers 70, 16" Stainless towel bar, width adjustment 2-6"</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shower Door</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/181926264838</id>
+      <title>48&quot; X 76&quot;</title>
+      <s:price currency="USD">639.00</s:price>
+      <s:sku>KUPC04_CV_4876-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kbdepot.com/products/181926264838</id>
+      <title>60&quot; X 60&quot;</title>
+      <s:price currency="USD">659.00</s:price>
+      <s:sku>KUPC04_CV_6060-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kbdepot.com/products/181926264838</id>
+      <title>60&quot; X 76&quot;</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KUPC04_CV_6076-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/163579985926</id>
+    <published>2018-02-19T13:48:28-08:00</published>
+    <updated>2018-02-19T13:48:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/kupc01"/>
+    <title>KUPC01</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/UPC01.jpg?v=1519077630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            659.00 - 729.00
+            <a href="https://kbdepot.com/products/kupc01">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frameless Double Sliding Shower Door available size 48" X 76",60<span>" X 60", </span><span>60" X 76"</span> , premium 3/8"(10mm) glass, rollers 60, 16" Stainless towel bar, width adjustment 2-6"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shower Door</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/163579985926</id>
+      <title>48&quot; X 76&quot;</title>
+      <s:price currency="USD">659.00</s:price>
+      <s:sku>KUPC01_CV_4876-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kbdepot.com/products/163579985926</id>
+      <title>60&quot; X 60&quot;</title>
+      <s:price currency="USD">669.00</s:price>
+      <s:sku>KUPC01_CV_6060-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kbdepot.com/products/163579985926</id>
+      <title>60&quot; X 76&quot;</title>
+      <s:price currency="USD">729.00</s:price>
+      <s:sku>KUPC01_CV_6076-SD-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

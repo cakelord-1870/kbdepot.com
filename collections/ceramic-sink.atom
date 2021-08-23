@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/ceramic-sink.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2018-03-19T15:43:08-07:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/225043873798</id>
+    <published>2018-03-19T15:43:08-07:00</published>
+    <updated>2018-03-19T15:43:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/csk25"/>
+    <title>CSK25</title>
+    <s:type>Sink</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SK25.jpg?v=1521572792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>Sink<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval Top mount Sink Ceramic White  20-1/2''X17-3/4''X7''</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic Sink</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225043873798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CSK25-Ceramic_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225043841030</id>
+    <published>2018-03-19T15:43:08-07:00</published>
+    <updated>2018-03-19T15:43:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/cl1811s_2254"/>
+    <title>CL1811S 2254</title>
+    <s:type>Sink</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/2254_0e54b7b7-0b9c-4f8f-af5c-fc2e3179d4b4.jpg?v=1521572707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>Sink<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square Under mount Sink Square Ceramic White    21''X15''X8'' (inside size 18-3/4''X12-1/2''X6'')</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic Sink</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225043841030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>CL1811S_2254-Ceramic_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225043808262</id>
+    <published>2018-03-19T15:43:08-07:00</published>
+    <updated>2018-03-19T15:43:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/c1714r-_l19"/>
+    <title>C1714R  L19</title>
+    <s:type>Sink</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/L19_18e2a5c9-bab2-430a-94b2-059f319db197.jpg?v=1521499447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>Sink<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval Under mount Sink Ceramic White -1/2''X16''X8-1/2'' (inside size 15''X14''X7'')</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic Sink</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225043808262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>C1714R _L19-Ceramic_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

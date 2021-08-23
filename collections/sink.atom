@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kbdepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kbdepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kbdepot.com/collections/sink.atom"/>
+  <title>KBDEPOT</title>
+  <updated>2019-08-02T16:58:09-07:00</updated>
+  <author>
+    <name>KBDEPOT</name>
+  </author>
+  <entry>
+    <id>https://kbdepot.com/products/163646996486</id>
+    <published>2019-08-02T16:58:09-07:00</published>
+    <updated>2019-08-02T16:58:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/su3218"/>
+    <title>SU3218</title>
+    <s:type></s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/S321816.jpg?v=1519086395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="405">
+<tbody>
+<tr>
+<td width="405">Available 16G, 18G Under mount Sink 50/50  32-1/4''X18-1/8''X9''/9''</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/163646996486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042300934</id>
+    <published>2019-08-02T16:57:51-07:00</published>
+    <updated>2019-08-02T16:57:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/sf3321a2"/>
+    <title>SF3321A2</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SF3321A2_4a1378bd-23d3-44b8-bfa1-967470b03478.jpg?v=1521572882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>33''X21''X10'' Rounded Front Farmer Sink Double 16 GAUGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042300934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>SF3321A2-16G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225043873798</id>
+    <published>2018-03-19T15:43:08-07:00</published>
+    <updated>2018-03-19T15:43:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/csk25"/>
+    <title>CSK25</title>
+    <s:type>Sink</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SK25.jpg?v=1521572792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>Sink<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval Top mount Sink Ceramic White  20-1/2''X17-3/4''X7''</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic Sink</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225043873798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CSK25-Ceramic_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225043841030</id>
+    <published>2018-03-19T15:43:08-07:00</published>
+    <updated>2018-03-19T15:43:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/cl1811s_2254"/>
+    <title>CL1811S 2254</title>
+    <s:type>Sink</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/2254_0e54b7b7-0b9c-4f8f-af5c-fc2e3179d4b4.jpg?v=1521572707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>Sink<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square Under mount Sink Square Ceramic White    21''X15''X8'' (inside size 18-3/4''X12-1/2''X6'')</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic Sink</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225043841030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>CL1811S_2254-Ceramic_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225043808262</id>
+    <published>2018-03-19T15:43:08-07:00</published>
+    <updated>2018-03-19T15:43:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/c1714r-_l19"/>
+    <title>C1714R  L19</title>
+    <s:type>Sink</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/L19_18e2a5c9-bab2-430a-94b2-059f319db197.jpg?v=1521499447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>Sink<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval Under mount Sink Ceramic White -1/2''X16''X8-1/2'' (inside size 15''X14''X7'')</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic Sink</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225043808262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>C1714R _L19-Ceramic_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042661382</id>
+    <published>2018-03-19T15:41:56-07:00</published>
+    <updated>2018-03-19T15:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/sh3620a2"/>
+    <title>SH3620A2</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SH3620A2_2cea80cd-9b87-4eee-898f-bccfbf27c11d.jpg?v=1521573177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SH3620A2 36'X20'X10' Flat Farmer Sink Round Corner 16 Gauge Double</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042661382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>SH3620A2-16G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042595846</id>
+    <published>2018-03-19T15:41:56-07:00</published>
+    <updated>2018-03-19T15:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/sh3320a1"/>
+    <title>SH3320A1</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SH3320A1_a939fb18-b08d-4c96-a8f3-14f689867191.jpg?v=1521573162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SH3320A1S 33'X20'X10' Flat Farmer Sink Round Corner 16 Gauge Single</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042595846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>SH3320A1-16G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042530310</id>
+    <published>2018-03-19T15:41:56-07:00</published>
+    <updated>2018-03-19T15:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/str3222a1"/>
+    <title>STR3222A1</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/STR3222A1_b7de3a36-2e37-4cda-a086-84de15bd6968.jpg?v=1521573292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            193.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32''X22''X9''   TOP MOUNT SQUARE DESIGN ROUND CORNER SINK 16 GAUGE Single</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042530310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">193.00</s:price>
+      <s:sku>STR3222A1-16G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042497542</id>
+    <published>2018-03-19T15:41:56-07:00</published>
+    <updated>2018-03-19T15:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/ss2919a1"/>
+    <title>SS2919A1</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SS2919A1_9681f828-1500-440e-b360-d1738939dab2.jpg?v=1521573194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>29''X19''X10'' UNDER MOUNT SQUARE EDGE SINK 18 GAUGE Single</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042497542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>SS2919A1-18G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042399238</id>
+    <published>2018-03-19T15:41:55-07:00</published>
+    <updated>2018-03-19T15:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/ss3219a1"/>
+    <title>SS3219A1</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SS3219A1.jpg?v=1521499650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SS3219A1S 32''X19''X10'' UNDER MOUNT SQUARE DESIGN ROUND CORNER SINK 16 GAUGE Single</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042399238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>SS3219A1-16G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042333702</id>
+    <published>2018-03-19T15:41:55-07:00</published>
+    <updated>2018-03-19T15:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/sf3621a2"/>
+    <title>SF3621A2</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SF3621A2_07568fbd-9e86-4dc2-937c-5c261f7fb369.jpg?v=1521572893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>36''X21''X10'' Rounded Front Farmer Sink Double 16 GAUGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042333702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>SF3621A2-16G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042268166</id>
+    <published>2018-03-19T15:41:54-07:00</published>
+    <updated>2018-03-19T15:41:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/su181518"/>
+    <title>SU181518</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SU181518.jpg?v=1521573783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Under mount Bar Sink(Medium)  18-1/2'x15'x7'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Machine Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042268166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>SU181518-18G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042235398</id>
+    <published>2018-03-19T15:41:54-07:00</published>
+    <updated>2018-03-19T15:41:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/su432118"/>
+    <title>SU432118</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SU432118.jpg?v=1521573851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18G Under mount Sink Triple Bow  43''x20-5/8''x9''/5''-1/8'/9''</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Machine Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042235398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>SU432118-18G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042137094</id>
+    <published>2018-03-19T15:41:53-07:00</published>
+    <updated>2018-03-19T15:41:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/su322118"/>
+    <title>SU322118</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SU322118.jpg?v=1521573763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            92.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18G Under mount Sink 60/40  32-3/8''X20-3/4''X9''/7''</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Machine Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042137094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>SU322118-18G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042104326</id>
+    <published>2018-03-19T15:41:53-07:00</published>
+    <updated>2018-03-19T15:41:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/su231818"/>
+    <title>SU231818</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/SU231818.jpg?v=1521573797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Under mount Bar Sink(Large)  23'X17-3/4'X9'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Machine Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042104326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>SU231818-18G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/225042071558</id>
+    <published>2018-03-19T15:41:53-07:00</published>
+    <updated>2018-03-19T15:41:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/st332220"/>
+    <title>ST332220</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/ST332220.jpg?v=1521573837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top mount Sink Double Bow  33'X22'X8'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Machine Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/225042071558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>ST332220-20G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kbdepot.com/products/163672555526</id>
+    <published>2018-03-19T15:41:53-07:00</published>
+    <updated>2018-03-19T15:41:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://kbdepot.com/products/st252220"/>
+    <title>ST252220</title>
+    <s:type>SINK</s:type>
+    <s:vendor>KB DEPOT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2960/3132/products/ST252220.jpg?v=1521573814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KB DEPOT<br>
+        <strong>Type: </strong>SINK<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top mount Single Sink(Medium)  25''X22''X8''</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Machine Make</s:tag>
+    <s:tag>Sink</s:tag>
+    <s:tag>Stainless Steel Sink</s:tag>
+    <s:variant>
+      <id>https://kbdepot.com/products/163672555526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>ST252220-20G-Stainless_Steel_Sink-KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
